@@ -1,4 +1,4 @@
-**Laboratory Activity 3: Fire Sensor Simulation Using Arduino**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**Laboratory Activity 3: Fire Sensor Simulation Using Arduino**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Overview**
 
