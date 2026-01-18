@@ -7,9 +7,9 @@ This laboratory activity extends the previous running light experiment by introd
 __________________________________________________________________________________________________________________________________
 **Objectives**
 
-Understand the concept of analog signals and how they are represented in Arduino
+- Understand the concept of analog signals and how they are represented in Arduino
 
-Learn how to adjust LED brightness using PWM and the analogWrite() function_
+- Learn how to adjust LED brightness using PWM and the analogWrite() function
 
 **Hardware Used**
 
