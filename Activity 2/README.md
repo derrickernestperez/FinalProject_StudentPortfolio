@@ -1,7 +1,6 @@
-**Laboratory Activity 2: Working with Analog Signals**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**Laboratory Activity 2: Working with Analog Signals**::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-__________________________________________________________________________________________________________________________________
-Overview
+**Overview**
 
 This laboratory activity extends the previous running light experiment by introducing analog control. Instead of simply switching LEDs ON or OFF, the Arduino adjusts the intensity of each LED using Pulse Width Modulation (PWM), creating smooth fade-in and fade-out effects.
 __________________________________________________________________________________________________________________________________
